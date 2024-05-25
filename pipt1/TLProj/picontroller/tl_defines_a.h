@@ -4,7 +4,7 @@
  *** TargetLink subsystem : pipt1/picontroller
  *** Codefile             : tl_defines_a.h
  ***
- *** Generation date: 2024-01-04 12:51:24
+ *** Generation date: 2024-05-25 22:52:13
  ***
  *** TargetLink version      : 5.2p1 from 23-Mar-2022
  *** Code generator version  : Build Id 5.2.0.27 from 2022-03-21 17:27:57
@@ -24,6 +24,7 @@ extern "C" {
 /**************************************************************************************************\
    TL_CG_MACROCL_GLOBAL: Default macro class for macros with module extent
 \**************************************************************************************************/
+#define CAL const volatile
 #define STATIC_CAL static const volatile
 #define STATIC_DISP static
 
