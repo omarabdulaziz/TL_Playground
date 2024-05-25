@@ -1,0 +1,2 @@
+   Creating library .\\TLBuild\\pipt1\\HostPC64_MSVC\\pipt1.lib and object .\\TLBuild\\pipt1\\HostPC64_MSVC\\pipt1.exp
+LINK : warning LNK4281: undesirable base address 0x0 for x64 image; set base address above 4GB for best ASLR optimization

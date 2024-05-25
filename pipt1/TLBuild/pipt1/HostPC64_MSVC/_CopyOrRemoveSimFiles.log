@@ -1,0 +1,20 @@
+                                                                     
+----------------------------------------------------------           
+Copy the source and header files into build directory                
+----------------------------------------------------------           
+copy: ".\TLProj\picontroller\tl_basetypes.h" 
+        1 file(s) copied.
+copy: ".\TLProj\picontroller\tl_defines_a.h" 
+        1 file(s) copied.
+copy: ".\TLProj\picontroller\picontroller.c" 
+        1 file(s) copied.
+copy: ".\TLProj\picontroller\picontroller.h" 
+        1 file(s) copied.
+copy: ".\TLSim\picontroller_fri.c" 
+        1 file(s) copied.
+copy: ".\TLSim\picontroller_fri.h" 
+        1 file(s) copied.
+copy: ".\TLSim\picontroller_pcf.c" 
+        1 file(s) copied.
+copy: ".\TLSim\picontroller_frm.h" 
+        1 file(s) copied.

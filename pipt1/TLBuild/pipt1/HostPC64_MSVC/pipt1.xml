@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ddObj name="Build" Kind="Build" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="c:\program files\dspace targetlink 5.2\dsdd\symboltableparser\Schemas\SymTabImp.xsd">
+   <SectionsObj name="Sections" Kind="DSDDEmbeddedObject">
+         <SectionnameObj name="textmn" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000000</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00001250</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="textmn00" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00001250</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000036</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="textx" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00001286</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000092</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="idata5" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000000</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000120</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="00cfg" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000120</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000028</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="CRTXCA" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000148</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000008</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="CRTXCZ" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000150</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000008</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="CRTXIA" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000158</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000008</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="CRTXIZ" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000160</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000008</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="CRTXPA" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000168</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000008</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="CRTXPZ" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000170</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000008</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="CRTXTA" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000178</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000008</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="CRTXTZ" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000180</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000010</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="gehconty" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000188</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000000</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="gfidsy" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000188</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000000</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="rdata" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000190</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000270</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="rdataCastGuardVftablesA" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000400</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000008</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="rdataCastGuardVftablesC" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000408</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000008</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="rdatavoltmd" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000410</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000028</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="rdatazzzdbg" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000438</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000308</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="rtcIAA" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000740</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000008</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="rtcIZZ" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000748</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000008</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="rtcTAA" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000750</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000008</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="rtcTZZ" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000758</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000008</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="idata2" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000760</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x0000003c</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="idata3" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x0000079c</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000014</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="idata4" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x000007b0</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000120</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="idata6" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x000008d0</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000318</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="data" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000000</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000040</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="bss" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000040</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x000000c0</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="pdata" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000000</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x000001f8</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="edata" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000000</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x00000048</LengthProperty>
+         </SectionnameObj>
+         <SectionnameObj name="xdata" Kind="Section">
+             <AddressProperty Name="Address" Type="String">0x00000000</AddressProperty>
+             <LengthProperty Name="Length" Type="String">0x0000023c</LengthProperty>
+         </SectionnameObj>
+   </SectionsObj>
+   <SymbolsObj name="Symbols" Kind="SymbolGroup">
+         <ModulenameObj name="picontroller" Kind="SymbolGroup">
+              <SymbolnameObj name="picontroller" Kind="Symbol">
+                  <AddressProperty Name="Address" Type="String">0x1000</AddressProperty>
+                  <SectionProperty Name="Section" Type="String">text</SectionProperty>
+                  <AddressKindProperty Name="AddressKind" Type="String">default</AddressKindProperty>
+              </SymbolnameObj>
+              <SymbolnameObj name="P_Sa1_Ki" Kind="Symbol">
+                  <AddressProperty Name="Address" Type="String">0x3190</AddressProperty>
+                  <SectionProperty Name="Section" Type="String">CRTXTZ</SectionProperty>
+              </SymbolnameObj>
+              <SymbolnameObj name="P_Sa1_Kp" Kind="Symbol">
+                  <AddressProperty Name="Address" Type="String">0x3191</AddressProperty>
+                  <SectionProperty Name="Section" Type="String">rdata</SectionProperty>
+              </SymbolnameObj>
+              <SymbolnameObj name="Sa1_sU" Kind="Symbol">
+                  <AddressProperty Name="Address" Type="String">0x4040</AddressProperty>
+                  <SectionProperty Name="Section" Type="String">data</SectionProperty>
+              </SymbolnameObj>
+              <SymbolnameObj name="X_Sa1_Unit_Delay" Kind="Symbol">
+                  <AddressProperty Name="Address" Type="String">0x4044</AddressProperty>
+                  <SectionProperty Name="Section" Type="String">bss</SectionProperty>
+              </SymbolnameObj>
+         </ModulenameObj>
+         <ModulenameObj name="picontroller_fri" Kind="SymbolGroup">
+         </ModulenameObj>
+         <ModulenameObj name="picontroller_pcf" Kind="SymbolGroup">
+              <SymbolnameObj name="CallFcn_a1" Kind="Symbol">
+                  <AddressProperty Name="Address" Type="String">0x10A0</AddressProperty>
+                  <SectionProperty Name="Section" Type="String">text</SectionProperty>
+                  <AddressKindProperty Name="AddressKind" Type="String">default</AddressKindProperty>
+              </SymbolnameObj>
+         </ModulenameObj>
+         <ModulenameObj name="common" Kind="SymbolGroup">
+              <SymbolnameObj name="log_struct_a" Kind="Symbol">
+                  <AddressProperty Name="Address" Type="String">0x40E0</AddressProperty>
+                  <SectionProperty Name="Section" Type="String">bss</SectionProperty>
+              </SymbolnameObj>
+              <SymbolnameObj name="Sa1_Y" Kind="Symbol">
+                  <AddressProperty Name="Address" Type="String">0x40EC</AddressProperty>
+                  <SectionProperty Name="Section" Type="String">bss</SectionProperty>
+              </SymbolnameObj>
+              <SymbolnameObj name="Sa1_U" Kind="Symbol">
+                  <AddressProperty Name="Address" Type="String">0x40EE</AddressProperty>
+                  <SectionProperty Name="Section" Type="String">bss</SectionProperty>
+              </SymbolnameObj>
+              <SymbolnameObj name="Sa1_REF" Kind="Symbol">
+                  <AddressProperty Name="Address" Type="String">0x40F0</AddressProperty>
+                  <SectionProperty Name="Section" Type="String">bss</SectionProperty>
+              </SymbolnameObj>
+              <SymbolnameObj name="__dyn_tls_init_callback" Kind="Symbol">
+                  <AddressProperty Name="Address" Type="String">0x40F8</AddressProperty>
+                  <SectionProperty Name="Section" Type="String">bss</SectionProperty>
+              </SymbolnameObj>
+         </ModulenameObj>
+       </SymbolsObj>
+   </ddObj>
