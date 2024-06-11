@@ -1,10 +1,10 @@
 /**************************************************************************************************\
  *** 
- *** Simulink model       : Functions
- *** TargetLink subsystem : Functions/MathOperations
+ *** Simulink model       : FunctionReuse
+ *** TargetLink subsystem : FunctionReuse/MathOperations
  *** Codefile             : tl_basetypes.h
  ***
- *** Generation date: 2024-06-09 02:09:02
+ *** Generation date: 2024-06-12 01:09:15
  ***
  *** TargetLink version      : 5.2p1 from 23-Mar-2022
  *** Code generator version  : Build Id 5.2.0.27 from 2022-03-21 17:27:57
